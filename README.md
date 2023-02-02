@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <h2>🛠️ My Favorite Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
