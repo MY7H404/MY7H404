@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # 🏄‍♂️ MY7H_404
 
-**`CyberSec (Hacker/BugHunter/MOD Devolaper/CTF`**
+**`CyberSec (Hacker/BugHunter/MOD Devolaper/CTF)`**
 
 
 - 🔭 I’m currently working on Exploitation
