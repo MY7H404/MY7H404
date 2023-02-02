@@ -68,8 +68,7 @@ I am a highly motivated and experienced ethical hacker with a passion for securi
 
 ---
 
-<details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <h1>🛠️ My Favorite Tools</h1>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -172,5 +171,5 @@ I am a highly motivated and experienced ethical hacker with a passion for securi
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
+
 
