@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 **`CyberSec (Hacker/BugHunter/MOD Devolaper/CTF`**
 
 
+- 🔭 I’m currently working on Exploitation
+- 🌱 I’m currently learning OSCP
+- 📫 How to reach me: Insta @my7h_404
+
+
 
 ---
 
