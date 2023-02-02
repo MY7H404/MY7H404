@@ -27,13 +27,13 @@ I am a highly motivated and experienced ethical hacker with a passion for securi
 - 🌱 I’m currently learning OSCP
 - 📫 How to reach me: Insta @my7h_404
 
+# 🔒 Protecting the Digital World, One Byte at a Time
 
-
-
+As an ethical hacker, my focus is on creating a safer and more secure digital world. With a background in computer science and a deep understanding of security systems, I bring a unique perspective to the field, combining technical expertise with mindfulness and a focus on the big picture. I approach each challenge with a sense of purpose and a commitment to finding solutions that not only mitigate risk, but also promote positive change. Whether I'm identifying vulnerabilities, developing security strategies, or training others, I approach my work with a sense of purpose, a critical eye, and a commitment to excellence. By combining cutting-edge technology with a mindfulness approach, I strive to protect the digital world, one byte at a time
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -55,12 +55,12 @@ I am a highly motivated and experienced ethical hacker with a passion for securi
 
 
 
-<p>
-  <h2>🛠️ My Favorite Tools</h2>
+
+## 🛠️ My Favorite Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
-</p>
+
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -161,10 +161,10 @@ I am a highly motivated and experienced ethical hacker with a passion for securi
   
  
   </p>
-
+<!--
 ## Let's Play
 
 **Game is in progress.**
 
 ![](https://user-images.githubusercontent.com/13794470/37289691-964618be-260a-11e8-8c4a-6df04d6c490d.gif)
-
+--!>
