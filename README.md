@@ -25,7 +25,6 @@ I am a highly motivated and experienced ethical hacker with a passion for securi
 
 - 🔭 I’m currently working on Exploitation
 - 🌱 I’m currently learning OSCP
-- 📫 How to reach me: Insta @my7h_404
 
 # 🌅 Behind the scenes of my daily routine
 
