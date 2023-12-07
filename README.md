@@ -43,18 +43,18 @@ As a defender of the digital world, my goal is to ensure the security of network
 
 As an ethical hacker, my focus is on creating a safer and more secure digital world. With a background in computer science and a deep understanding of security systems, I bring a unique perspective to the field, combining technical expertise with mindfulness and a focus on the big picture. I approach each challenge with a sense of purpose and a commitment to finding solutions that not only mitigate risk, but also promote positive change. Whether I'm identifying vulnerabilities, developing security strategies, or training others, I approach my work with a sense of purpose, a critical eye, and a commitment to excellence. By combining cutting-edge technology with a mindfulness approach, I strive to protect the digital world, one byte at a time
 
----
-## HackTheBox
+
+## [HackTheBox](https://app.hackthebox.com/users/997054)
 
 <image src="https://www.hackthebox.eu/badge/image/997054" alt="Hack The Box" style="max-width: 480px"> <br>
 
-## TryHackMe
+## [TryHackMe](https://app.hackthebox.com/users/997054)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/MY7H0x194.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/MY7H0x194.png" alt="TryHackMe"> <br>
 
 ---
-
-## 🧰 Languages and Tools
+## 🛠️ My Favorite Language and Tools</h2>
+## 🧰 Languages
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -77,7 +77,7 @@ As an ethical hacker, my focus is on creating a safer and more secure digital wo
 
 
 
-## 🛠️ My Favorite Tools</h2>
+## 🛠️ Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
