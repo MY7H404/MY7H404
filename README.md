@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-# 🏄‍♂️ MY7H_404
+# 🏄‍♂️ MY7H
 
 **`CyberSec (Hacker/MOD Developer/CTF Player)`**
 
