@@ -44,6 +44,15 @@ As a defender of the digital world, my goal is to ensure the security of network
 As an ethical hacker, my focus is on creating a safer and more secure digital world. With a background in computer science and a deep understanding of security systems, I bring a unique perspective to the field, combining technical expertise with mindfulness and a focus on the big picture. I approach each challenge with a sense of purpose and a commitment to finding solutions that not only mitigate risk, but also promote positive change. Whether I'm identifying vulnerabilities, developing security strategies, or training others, I approach my work with a sense of purpose, a critical eye, and a commitment to excellence. By combining cutting-edge technology with a mindfulness approach, I strive to protect the digital world, one byte at a time
 
 ---
+## HackTheBox
+
+<image src="https://www.hackthebox.eu/badge/image/997054" alt="Hack The Box" style="max-width: 480px"> <br>
+
+## TryHackMe
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/MY7H0x194.png" alt="TryHackMe">
+
+---
 
 ## 🧰 Languages and Tools
 
