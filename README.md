@@ -52,7 +52,6 @@ As an ethical hacker, my focus is on creating a safer and more secure digital wo
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/MY7H0x194.png" alt="TryHackMe"> <br>
 
----
 ## 🛠️ My Favorite Language and Tools</h2>
 ## 🧰 Languages
 
