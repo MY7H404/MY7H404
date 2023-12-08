@@ -1,20 +1,3 @@
-<!--
-### Hi there 👋
-
-
-**MY7H404/MY7H404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 # 🏄‍♂️ MY7H
@@ -181,10 +164,3 @@ As an ethical hacker, my focus is on creating a safer and more secure digital wo
   
  
   </p>
-<!--
-## Let's Play
-
-**Game is in progress.**
-
-![](https://user-images.githubusercontent.com/13794470/37289691-964618be-260a-11e8-8c4a-6df04d6c490d.gif)
---!>
