@@ -6,8 +6,6 @@
 
 I am a highly motivated and experienced ethical hacker with a passion for security and protecting sensitive information. With over three years in the field, I have gained a deep understanding of various security systems and techniques and am adept at identifying vulnerabilities and developing solutions to mitigate risk. My goal is to help organizations strengthen their security posture and prevent data breaches. When I'm not hacking, you can find me staying up-to-date on the latest industry trends and improving my skills
 
-- 🔭 I’m currently working on Exploitation
-- 🌱 I’m currently learning OSCP
 
 # 🌅 Behind the scenes of my daily routine
 
