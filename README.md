@@ -48,7 +48,7 @@ As an ethical hacker, my focus is on creating a safer and more secure digital wo
 
 <image src="https://www.hackthebox.eu/badge/image/997054" alt="Hack The Box" style="max-width: 480px"> <br>
 
-## [TryHackMe](https://app.hackthebox.com/users/997054)
+## [TryHackMe](https://tryhackme.com/p/MY7H0x194)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/MY7H0x194.png" alt="TryHackMe"> <br>
 
